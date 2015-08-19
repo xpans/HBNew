@@ -1,0 +1,14 @@
+G:\VC++\MyProjects\music_player\music_player\bin\Debug\music_player.exe.config
+G:\VC++\MyProjects\music_player\music_player\obj\Debug\music_player.csprojResolveAssemblyReference.cache
+G:\VC++\MyProjects\music_player\music_player\obj\Debug\music_player.Form1.resources
+G:\VC++\MyProjects\music_player\music_player\obj\Debug\music_player.Properties.Resources.resources
+G:\VC++\MyProjects\music_player\music_player\obj\Debug\music_player.csproj.GenerateResource.Cache
+G:\VC++\MyProjects\music_player\music_player\bin\Debug\music_player.exe
+G:\VC++\MyProjects\music_player\music_player\bin\Debug\music_player.pdb
+G:\VC++\MyProjects\music_player\music_player\obj\Debug\music_player.exe
+G:\VC++\MyProjects\music_player\music_player\obj\Debug\music_player.pdb
+G:\VC++\MyProjects\music_player\music_player\bin\Debug\Interop.WMPLib.dll
+G:\VC++\MyProjects\music_player\music_player\bin\Debug\AxInterop.WMPLib.dll
+G:\VC++\MyProjects\music_player\music_player\obj\Debug\Interop.WMPLib.dll
+G:\VC++\MyProjects\music_player\music_player\obj\Debug\AxInterop.WMPLib.dll
+G:\VC++\MyProjects\music_player\music_player\obj\Debug\music_player.csproj.ResolveComReference.cache
